@@ -2,7 +2,7 @@
 # Integrantes
 Diana Paola Ferraro Cardenas  20182020048
 Camilo Andrés Caiman Urquijo 20181020086
-#Introducción:
+# Introducción:
 
 El juego consiste en un juego de plataformas con temática espadachines desarrollado para
 plataformas que utilizan Godot Engine.El género es un metroidvania el cual es es un
